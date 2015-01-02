@@ -21,6 +21,8 @@ gem 'devise', '~> 3.4.1'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'aws-sdk'
 gem 'masonry-rails'
+gem 'will_paginate'
+gem 'will_paginate-bootstrap'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 gem 'jquery-turbolinks'
